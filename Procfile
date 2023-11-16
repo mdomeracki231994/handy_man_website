@@ -1,0 +1,1 @@
+web: gunicorn handy_man_site.wsgi
